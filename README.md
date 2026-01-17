@@ -2,6 +2,9 @@
 Manipulation d'un jeu de données sur la performence scolaire  ( dataset .csv => kaggle) et la prédiction d'un rendement agricole 
 Remarque : les fichiers applications sont les interface GUI 
 
+interface de travail :  Anaconda => spyder 
+pour tout ma réalisation 
+
 
 
 
