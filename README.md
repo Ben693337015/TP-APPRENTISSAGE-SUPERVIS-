@@ -16,11 +16,17 @@ L'ensemble de données sur la performance des étudiants vise à examiner les fa
 
 1. Aperçu des variables
 •	Variable à prédire () : Performance Index.
+
 •	Variables explicatives () : * Hours Studied (Heures d'étude)
+
 o	Previous Scores (Scores précédents)
+
 o	Sleep Hours (Heures de sommeil)
+
 o	Sample Question Papers Practiced (Examens blancs pratiqués)
+
 o	Extracurricular Activities (Activités extra-scolaires - converties en valeur numérique 0/1)
+
 Performance index  : Mesure de la performance globale de chaque étudiant. Cet indice, arrondi à l'entier le plus proche, représente la performance scolaire de l'étudiant. Il varie de 10 à 100, les valeurs les plus élevées indiquant une meilleure performance.
 
 Cet ensemble de données a pour objectif d'analyser la relation entre les variables prédictives et l'indice de performance. Les chercheurs et les analystes de données peuvent utiliser cet ensemble de données pour explorer l'impact du temps d'étude, des résultats antérieurs, des activités extrascolaires, du temps de sommeil et des exemples de sujets d'examen sur la réussite scolaire.
